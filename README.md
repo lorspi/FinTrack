@@ -24,8 +24,10 @@ No es un producto comercial ni pretende serlo: no cuenta con soporte, ni garant�
 
 ## Notas
 
+- **Demo oficial:** esta versión web está publicada en
+  <https://lorspi.github.io/FinTrack/>.
 - Este build está preparado para funcionar desde un **subdirectorio**
-  (por ejemplo `https://usuario.github.io/fintrack/`), sin necesidad de estar en el dominio raíz.
+  (por ejemplo `https://usuario.github.io/FinTrack/`), sin necesidad de estar en el dominio raíz.
 - Todos los datos viven en tu navegador y en tu dispositivo Android:
   **no hay servidores en la nube ni base de datos remota**.
 
